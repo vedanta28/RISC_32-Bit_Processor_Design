@@ -16,7 +16,7 @@ In this project, we have implemented a typical RISC-32 Processor having a 5-stag
 - Intructions supported: MOV, MVI, LOAD, STORE, ADD, ADI, SUB, SUI, AND, ANI, OR, ORI, HLT
 - Support for branched and call instructions might be added in future.
 
-## Contents of the File
+## Contents of the Repository
 
 The repository **MIPS_32-Bit_Processor_Design** contains the following files:
 
